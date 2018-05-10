@@ -7,3 +7,5 @@
 >What is the difference between the map() and the filter() function?
 * The map() function can iterate any function over each item in the array, whereas the filter() method checks whether a particular condition is true for each item in the array.
 * Map() does not change the original array, whereas filter() does change the original array by removing those elments for which the condition is `false`.
+    * **Edit based on request for revision:**
+        * **The filter() function iterates over the elements of the array. Those elements for which the condition returns a value of `true` become part of a subset that is added to another array that is returned.**
