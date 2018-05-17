@@ -1,0 +1,3 @@
+>What does "DRY" stand for? What does the "DRY principle" imply in programming or software development?
+* DRY stands for "dont repeat yourself", which is a principle of programming that says that things should only be represented or stated once within a system, thus avoiding repetition and bloated code.
+* DRY is reflected in a number of the structures we already have dealt with, specifically functions, classes, prototypes, and inheritance. All of these allow code to be written more efficiently without repetition.
